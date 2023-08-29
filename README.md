@@ -35,6 +35,11 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruba274&" alt="dhruba274" /></p>
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Confusion is part of Programming⭐💻</h2></summary>
+  </ul>
+</div>
 
 ----------------------------------------------------------------------
 
